@@ -13,7 +13,7 @@ A simple, elegant, and responsive To-Do List web app built using **HTML**, **CSS
 
 ## 📸 Screenshots
 
-![screenshot](./"C:\Users\WALTON\Pictures\Screenshots\to-do.png") <!-- Add a real screenshot file with this name or update path -->
+![screenshot](./C:\Users\WALTON\Pictures\Screenshots\to-do.png) <!-- Add a real screenshot file with this name or update path -->
 
 ## 💻 Technologies Used
 
