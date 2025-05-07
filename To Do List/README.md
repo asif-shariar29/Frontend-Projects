@@ -11,10 +11,6 @@ A simple, elegant, and responsive To-Do List web app built using **HTML**, **CSS
 - 📱 Responsive design for mobile and desktop
 - 🎨 Stylish UI with gradient background and icons (Font Awesome)
 
-## 📸 Screenshots
-
-![screenshot](./C:\Users\WALTON\Pictures\Screenshots\to-do.png) <!-- Add a real screenshot file with this name or update path -->
-
 ## 💻 Technologies Used
 
 - HTML5
