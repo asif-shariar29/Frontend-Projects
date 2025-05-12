@@ -1,6 +1,7 @@
 # 🌄 Image Search App
 
-A simple web application to search and view images using the [Unsplash API](https://unsplash.com/developers). Users can view and open image links directly on Unsplash. Built with **HTML**, **CSS**, and **JavaScript**.
+A simple web application to search and view images using the [Unsplash API](https://unsplash.com/developers). Users can search images by entering keywords, view results, and open image links directly on Unsplash. Built with **HTML**, **CSS**, and **JavaScript**.
+
 
 ---
 
