@@ -7,7 +7,7 @@ A simple digital clock web application that displays the current time. The time 
 - Displays current time in hours, minutes, and seconds.
 - AM/PM format.
 - Displays the current day and date.
-- Responsive design : Only looks good in desktop/laptop.
+- Responsive design : Only for desktop devices.
 - Clean and modern look with a background image.
 
 ## Technologies Used
