@@ -5,7 +5,6 @@ This is a simple responsive web page that features a **sticky navigation bar**. 
 ## 🛠️ Features
 
 - Sticky Navbar that changes color on scroll
-- Fully responsive design
 - Smooth layout with structured content
 - CSS Flexbox for layout management
 - JavaScript for scroll detection and navbar behavior
