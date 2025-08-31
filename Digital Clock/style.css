@@ -80,21 +80,6 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 0.5px;
 }
-
-  @media (max-width: 540px) {
-    .clock {
-      flex-direction: column;
-    }
-  
-    .clock span {
-      width: 100px;
-      height: 70px;
-      font-size: 24px;
-    }
-  
-    .ampm {
-      margin-top: 20px;
-    }
   
     h2 {
       font-size: 24px;
